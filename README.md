@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Què estic escoltant a Spotify?
 
 ![](https://que-escolto.eina.workers.dev/playerr)
