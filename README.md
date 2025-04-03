@@ -1,7 +1,7 @@
 ### Què estic escoltant a Spotify?
 
 <a href="https://github.com/encarbassotnopot/que-escolto">
-<img src="https://que-escolto.eina.workers.dev/playerr" />
+<img src="https://que-escolto.eina.workers.dev/player" />
 </a>
 
 <!--
