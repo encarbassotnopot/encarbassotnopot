@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Què estic escoltant a Spotify?
+
+![](https://que-escolto.eina.workers.dev/)
+
 <!--
 **encarbassotnopot/encarbassotnopot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
